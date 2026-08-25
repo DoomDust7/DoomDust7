@@ -1,6 +1,6 @@
 # Hey, I'm Manav 👋
 
-Data engineer and ML practitioner, currently doing my **Master's in Data Science** at Arizona State University (GPA 3.89). Before grad school, I spent 2 years at **Shell** building data pipelines and migrating enterprise dashboards — now I'm deep into AI/LLM engineering.
+Data engineer and ML practitioner, currently doing my **Master's in Data Science** at Arizona State University (GPA 3.67). Before grad school, I spent 2 years at **Shell** building data pipelines and migrating enterprise dashboards — now I'm deep into AI/LLM engineering.
 
 ---
 
